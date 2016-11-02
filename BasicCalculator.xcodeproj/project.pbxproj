@@ -12,6 +12,7 @@
 		FEA004EF1DC9A2A100045CD8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FEA004ED1DC9A2A100045CD8 /* Main.storyboard */; };
 		FEA004F11DC9A2A100045CD8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FEA004F01DC9A2A100045CD8 /* Assets.xcassets */; };
 		FEA004F41DC9A2A100045CD8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FEA004F21DC9A2A100045CD8 /* LaunchScreen.storyboard */; };
+		FEA004FC1DC9B43900045CD8 /* Minecraft.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FEA004FB1DC9B43900045CD8 /* Minecraft.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		FEA004F01DC9A2A100045CD8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FEA004F31DC9A2A100045CD8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FEA004F51DC9A2A100045CD8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FEA004FB1DC9B43900045CD8 /* Minecraft.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Minecraft.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		FEA004E81DC9A2A100045CD8 /* BasicCalculator */ = {
 			isa = PBXGroup;
 			children = (
+				FEA004FB1DC9B43900045CD8 /* Minecraft.ttf */,
 				FEA004E91DC9A2A100045CD8 /* AppDelegate.swift */,
 				FEA004EB1DC9A2A100045CD8 /* ViewController.swift */,
 				FEA004ED1DC9A2A100045CD8 /* Main.storyboard */,
@@ -126,6 +129,7 @@
 			files = (
 				FEA004F41DC9A2A100045CD8 /* LaunchScreen.storyboard in Resources */,
 				FEA004F11DC9A2A100045CD8 /* Assets.xcassets in Resources */,
+				FEA004FC1DC9B43900045CD8 /* Minecraft.ttf in Resources */,
 				FEA004EF1DC9A2A100045CD8 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
